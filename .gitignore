@@ -216,3 +216,27 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# PyCharm
+.idea/
+
+# Python environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Raw datasets
+data/raw/
+*.zip
+
+# Credentials
+kaggle.json
+.env
+
+# Operating system
+.DS_Store
+Thumbs.db
