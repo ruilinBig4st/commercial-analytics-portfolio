@@ -1,0 +1,4 @@
+dataset,file_name,source_url,download_date,size_mb,access_terms,notes
+M5,calendar.csv,https://www.kaggle.com/competitions/m5-forecasting-accuracy/data,2026-10-03,0.10 MB,Kaggle competition rules,"Calendar, events and SNAP information"
+M5,sell_prices.csv,https://www.kaggle.com/competitions/m5-forecasting-accuracy/data,2026-10-03,193.97 MB,Kaggle competition rules,"Weekly item-store prices"
+M5,sales_train_evaluation.csv,https://www.kaggle.com/competitions/m5-forecasting-accuracy/data,2026-10-03,116.10 MB,Kaggle competition rules,"Item-level daily sales history"
